@@ -10,5 +10,5 @@
 #### Tidy data: [Link](https://github.com/Jadson-Correa/Data-Science/blob/master/tidyData.txt)
 #### Repo: [Link](https://github.com/Jadson-Correa/Data-Science)
 #### Codebook: [Link](https://github.com/Jadson-Correa/Data-Science/blob/master/Codebook.md)
-#### R script: [Link]()
+#### R script: [Link](https://github.com/Jadson-Correa/Data-Science/blob/master/README.md)
 
