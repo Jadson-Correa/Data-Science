@@ -4,7 +4,7 @@
 
 ## Data
 
-The data and the description can be found in this address UCI Machine Learning Repository
+The data and the description can be found in this address [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
 ## Structure
 
@@ -13,7 +13,7 @@ In the sample has 30 volunteers who performed 6 activities wearing a smartphone 
 ## Information
 
 Informations of each variable:
-### ID
+### ID;
 ### Activity label;
 ### Angular velecity (gyroscope);
 ### Total acceleration;
